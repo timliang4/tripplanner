@@ -1,4 +1,6 @@
-# Web App for Planning and Geographically Visualizing Tripa
+# Trip Planner
+
+> Web App for Planning and Geographically Visualizing Trips
 
 Built with Spring Boot and MongoDB on the Backend, Vite and React on the Frontend.
 
